@@ -1,0 +1,49 @@
+Compiler:A program that translates code into machine language
+Function:A reusable block of code that performs a specific task
+Recursion:A function that calls itself
+Variable:A named location in memory to store data
+Pointer:A variable that stores a memory address
+Arrayindex:The position of an element in an array
+Loopcounter:A variable used to control loops
+String:A sequence of characters
+Integer:A whole number
+Float:A number with decimals
+Boolean:A true or false value
+Syntax:The rules of writing code
+Syntaxerror:An error in the code structure
+Logicerror:A flaw in a program's logic
+Debugging:The process of fixing errors
+IDE:A software tool for writing code
+Library:A collection of pre-written code
+Framework:A structure to support software development
+Module:A file containing code
+Parameter:A value passed into a function
+Argument:The actual value passed to a function
+Returnvalue:The data a function sends back
+Class:A blueprint for creating objects
+Object:An instance of a class
+Constructor:A special method to initialize objects
+Stack:A LIFO data structure
+Queue:A FIFO data structure
+Arraylist:A dynamic array structure
+Dictionary:A collection of key-value pairs
+API:A set of tools for interacting with software
+Event:An action detected by a program
+Listener:A function that waits for events
+Thread:A small unit of a process
+Process:A running program
+Cache:Temporary high-speed storage
+Binary:A base-2 number system
+Hexadecimal:A base-16 number system
+Compiletime:The period when code is translated to machine language
+Runtime:The period when a program is running
+Exception:An error during runtime
+Tryblock:A section of code tested for errors
+Catchblock:A section that handles errors
+Classmethod:A function belonging to a class
+Attribute:A variable inside a class
+Namespace:A container to avoid name conflicts
+Datatype:A category of data
+Command:A specific instruction to the system
+Token:A meaningful element in code
+Operator:A symbol that performs actions
